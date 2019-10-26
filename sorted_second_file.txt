@@ -1,0 +1,5 @@
+alma
+banan
+barack
+Hello world!
+korte
